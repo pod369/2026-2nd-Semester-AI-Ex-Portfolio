@@ -1,0 +1,44 @@
+{
+  "source_repository": "pod369/Image-processing-4",
+  "source_commit": "b2f9a5b94bbe353cce22ce469e358bb2715759ce",
+  "organized_on": "2026-10-14",
+  "reference_files_preserve_original_bytes": true,
+  "standalone_reorganized_on": "2026-10-19",
+  "files": [
+    {
+      "local_path": "reference/play_5_2.py",
+      "original_path": "play_5_2.py",
+      "source_blob_sha": "19a5da5045352813f712935b2eb1bddb0eb4062e",
+      "sha256": "4609e1cc757d96f9ac65ab716212dfd021fb69431a459973cc222dd266802130",
+      "size_bytes": 318
+    },
+    {
+      "local_path": "reference/play_5_3.py",
+      "original_path": "play_5_3.py",
+      "source_blob_sha": "b0fcb5e5f56c91d5a19d597cb3cae6725b3a6dcd",
+      "sha256": "8f67ba51e68359f26005e0ee4139998e5e2bc1b953fa11127f8023320d306229",
+      "size_bytes": 1020
+    },
+    {
+      "local_path": "reference/play_5_4.py",
+      "original_path": "play_5_4.py",
+      "source_blob_sha": "337c062f152466ec544e251f39e75da9af329c90",
+      "sha256": "6e914f483e3841989bc47563b52d3dc7080af91d584ed6254eb5133485b479fd",
+      "size_bytes": 1306
+    },
+    {
+      "local_path": "assets/mot_color70.jpg",
+      "original_path": "mot_color70.jpg",
+      "source_blob_sha": "b6165a72616ba0ffbbdadd8d1f8d2a7b56e44d5f",
+      "sha256": "91d0df8de86d2c8b17d80f7a1ebc61841bda031a84b509e6b69d3ab7ad0fef9a",
+      "size_bytes": 183251
+    },
+    {
+      "local_path": "assets/mot_color83.jpg",
+      "original_path": "mot_color83.jpg",
+      "source_blob_sha": "20d49916a2451714c7eaed3a296b0f90b8d805a6",
+      "sha256": "d5de545f0bab2b341c8f4260ace9b1c71dfca290c479957e4878fafa6dbc054a",
+      "size_bytes": 171246
+    }
+  ]
+}
